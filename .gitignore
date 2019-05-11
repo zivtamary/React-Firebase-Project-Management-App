@@ -6,6 +6,7 @@
 .pnp.js
 /dist
 /.firebase
+/functions
 .firebase
 .firebaserc
 .firebase.json
