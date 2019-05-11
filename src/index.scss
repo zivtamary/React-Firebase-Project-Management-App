@@ -1,0 +1,26 @@
+body {
+    
+    nav {
+        margin: 0;
+        padding: 1em 0!important;
+        .navbar-brand {
+            font-size: 200%;
+        }
+        .navbar-nav {
+            li {
+                .nav-link {
+
+                    font-size: 1.5em;
+                }
+            }
+        }
+    }
+    .card {
+      
+    }
+    .project-link {
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}

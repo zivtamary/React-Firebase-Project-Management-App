@@ -4,7 +4,13 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/dist
+/.firebase
+.firebase
+.firebaserc
+.firebase.json
+project-management-tool.7z
+project-management-tool
 # testing
 /coverage
 
